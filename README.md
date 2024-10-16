@@ -16,6 +16,11 @@ ExchangeXpert is a user-friendly currency converter app that provides real-time 
 
 Here's a video showing the current progress of the app. Right now, it supports USD to any other currency conversion. More updates are coming soon!
 
+
+https://github.com/user-attachments/assets/6342a557-e693-45f0-913d-d82688525cdc
+
+
+
 ## How It Works
 
 1. **Fetches Currency Rates:** The app fetches live rates and currency data from the OpenExchangeRates API.

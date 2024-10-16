@@ -28,7 +28,7 @@ class _UsdToAnyState extends State<UsdToAny> {
           mainAxisSize: MainAxisSize.min,
           children: [
             const Text('Convert USD to any currency',
-                style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold)),
+                style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
             const SizedBox(height: 20),
             TextFormField(
               key: const ValueKey('usd'),

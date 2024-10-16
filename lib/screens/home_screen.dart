@@ -1,6 +1,7 @@
 import 'package:exchange_xpert/models/exchange_rate_model.dart';
 import 'package:exchange_xpert/services/currency_service.dart';
 import 'package:exchange_xpert/services/exchange_rate_service.dart';
+import 'package:exchange_xpert/widgets/any_to_any.dart';
 import 'package:exchange_xpert/widgets/usd_to_any.dart';
 import 'package:flutter/material.dart';
 
@@ -83,7 +84,10 @@ class _HomeScreenState extends State<HomeScreen> {
                           currencies: currenciesSnapshot.data!,
                           rates: ratesSnapshot.data!.rates,
                         ),
-                        // AnyToAny(),
+                        AnyToAny(
+                          rates: ratesSnapshot.data!.rates,
+                          currencies: currenciesSnapshot.data!,
+                        ),
                       ],
                     );
                   },

@@ -14,12 +14,9 @@ ExchangeXpert is a user-friendly currency converter app that provides real-time 
 
 ## Video Progress
 
-Here's a video showing the current progress of the app. Right now, it supports USD to any other currency conversion. More updates are coming soon!
+Here's a video showing the current progress of the app. Right now, it supports USD to any other currency conversion & any currency to any currency conversion. More updates are coming soon!
 
-
-https://github.com/user-attachments/assets/6342a557-e693-45f0-913d-d82688525cdc
-
-
+https://github.com/user-attachments/assets/0282e35a-5b92-41b5-9bad-3f5c99a7cde6
 
 ## How It Works
 
